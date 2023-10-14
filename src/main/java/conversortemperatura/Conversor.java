@@ -1,6 +1,6 @@
 package conversortemperatura;
 
-public class conversor{
+public class Conversor{
     public double celsiusFahrenheit(double celsius){
         double resultado = (celsius*1.8)+32;
         //System.out.printf("Temperatura em Fahrenheit: %.1f\n", resultado);
