@@ -14,12 +14,12 @@ public class Teste1 {
 
     @Test
     public void testeCF(){
-        assertEquals(testeConversor.celsiusFahrenheit(30.0), 86.0, "Valor incorreto");
+        assertEquals(testeConversor.celsiusFahrenheit(30.0), 87.0, "Valor incorreto");
     }
 
     @Test
     public void testeFC(){
-        assertEquals(testeConversor.fahrenheitCelsius(86.0), 30.0, "Valor incorreto");
+        assertEquals(testeConversor.fahrenheitCelsius(86.0), 31.0, "Valor incorreto");
     }
 
 }
