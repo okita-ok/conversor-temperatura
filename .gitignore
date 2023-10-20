@@ -1,1 +1,4 @@
 .vscode/
+
+target/classes/conversortemperatura/
+target/test-classes/conversortemperatura/
